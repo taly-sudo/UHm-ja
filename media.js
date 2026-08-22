@@ -2,57 +2,65 @@ window.GALLERY = [
  {
   "name": "clips-discord",
   "slug": "clips-discord",
-  "desc": "Gameplay clips saved from Discord.",
+  "desc": "Gameplay clips.",
   "photos": 0,
-  "videos": 6,
+  "videos": 7,
   "items": [
    {
-    "path": "media/clips-discord/biplane-skyline-flyby.mp4",
+    "path": "media/clips-discord/%5B%40download_it_bot%20720p%5D%20Official%20gta%206%20leak%20hypercar%20video.mp4",
     "type": "video",
-    "title": "Biplane skyline flyby",
-    "label": "Clip 1 of 6",
-    "file": "biplane-skyline-flyby.mp4",
-    "mb": 8.8
+    "title": "Official GTA 6 leak hypercar video",
+    "label": "Clip 1 of 7",
+    "file": "[@download_it_bot 720p] Official gta 6 leak hypercar video.mp4",
+    "mb": 27.6
    },
    {
-    "path": "media/clips-discord/goose-key-junction.mp4",
+    "path": "media/clips-discord/ejqhhc.mp4",
     "type": "video",
-    "title": "Goose key junction",
-    "label": "Clip 2 of 6",
-    "file": "goose-key-junction.mp4",
-    "mb": 8.6
+    "title": "Untitled clip (ejqhhc)",
+    "label": "Clip 2 of 7",
+    "file": "ejqhhc.mp4",
+    "mb": 35.4
    },
    {
-    "path": "media/clips-discord/hypercar-night-run.mp4",
+    "path": "media/clips-discord/nmbqlk.mp4",
     "type": "video",
-    "title": "Hypercar night run",
-    "label": "Clip 3 of 6",
-    "file": "hypercar-night-run.mp4",
-    "mb": 8.8
+    "title": "Untitled clip (nmbqlk)",
+    "label": "Clip 3 of 7",
+    "file": "nmbqlk.mp4",
+    "mb": 28.8
    },
    {
-    "path": "media/clips-discord/industrial-night-drive.mp4",
+    "path": "media/clips-discord/redvid_io_new_gta_leak_plane_fly_by.mp4",
     "type": "video",
-    "title": "Industrial night drive",
-    "label": "Clip 4 of 6",
-    "file": "industrial-night-drive.mp4",
-    "mb": 8.9
+    "title": "New GTA leak plane fly by",
+    "label": "Clip 4 of 7",
+    "file": "redvid_io_new_gta_leak_plane_fly_by.mp4",
+    "mb": 63.5
    },
    {
-    "path": "media/clips-discord/safehouse-goose-key.mp4",
+    "path": "media/clips-discord/redvid_io_new_leak.mp4",
     "type": "video",
-    "title": "Safehouse goose key",
-    "label": "Clip 5 of 6",
-    "file": "safehouse-goose-key.mp4",
-    "mb": 8.8
+    "title": "New leak",
+    "label": "Clip 5 of 7",
+    "file": "redvid_io_new_leak.mp4",
+    "mb": 67.5
    },
    {
     "path": "media/clips-discord/sunset-boulevard-ride.mp4",
     "type": "video",
     "title": "Sunset boulevard ride",
-    "label": "Clip 6 of 6",
+    "label": "Clip 6 of 7",
     "file": "sunset-boulevard-ride.mp4",
     "mb": 8.9
+   },
+   {
+    "path": "media/clips-discord/xeczw7.mp4",
+    "type": "video",
+    "title": "Untitled clip (xeczw7)",
+    "label": "Clip 7 of 7",
+    "file": "xeczw7.mp4",
+    "mb": 35.5
    }
   ]
  },
@@ -66,33 +74,33 @@ window.GALLERY = [
    {
     "path": "media/67-vapid-dominator-buggy/screenshots-67-vapid-dominator-buggy1.jpg",
     "type": "photo",
-    "title": "’67 Vapid Dominator Buggy 1",
+    "title": "Screenshots 67 vapid dominator buggy 1",
     "label": "Photo 1 of 4",
-    "file": "Screenshots ’67 Vapid Dominator Buggy1.jpg",
+    "file": "screenshots-67-vapid-dominator-buggy1.jpg",
     "mb": 1.2
    },
    {
     "path": "media/67-vapid-dominator-buggy/screenshots-67-vapid-dominator-buggy2.jpg",
     "type": "photo",
-    "title": "’67 Vapid Dominator Buggy 2",
+    "title": "Screenshots 67 vapid dominator buggy 2",
     "label": "Photo 2 of 4",
-    "file": "Screenshots ’67 Vapid Dominator Buggy2.jpg",
+    "file": "screenshots-67-vapid-dominator-buggy2.jpg",
     "mb": 0.7
    },
    {
     "path": "media/67-vapid-dominator-buggy/screenshots-67-vapid-dominator-buggy3.jpg",
     "type": "photo",
-    "title": "’67 Vapid Dominator Buggy 3",
+    "title": "Screenshots 67 vapid dominator buggy 3",
     "label": "Photo 3 of 4",
-    "file": "Screenshots ’67 Vapid Dominator Buggy3.jpg",
+    "file": "screenshots-67-vapid-dominator-buggy3.jpg",
     "mb": 0.7
    },
    {
     "path": "media/67-vapid-dominator-buggy/screenshots-67-vapid-dominator-buggy4.jpg",
     "type": "photo",
-    "title": "’67 Vapid Dominator Buggy 4",
+    "title": "Screenshots 67 vapid dominator buggy 4",
     "label": "Photo 4 of 4",
-    "file": "Screenshots ’67 Vapid Dominator Buggy4.jpg",
+    "file": "screenshots-67-vapid-dominator-buggy4.jpg",
     "mb": 1.0
    }
   ]
@@ -107,33 +115,33 @@ window.GALLERY = [
    {
     "path": "media/95-grotti-cheetah/screenshots-95-grotti-cheetah1.jpg",
     "type": "photo",
-    "title": "’95 Grotti Cheetah 1",
+    "title": "Screenshots 95 grotti cheetah 1",
     "label": "Photo 1 of 4",
-    "file": "Screenshots ’95 Grotti Cheetah1.jpg",
+    "file": "screenshots-95-grotti-cheetah1.jpg",
     "mb": 0.4
    },
    {
     "path": "media/95-grotti-cheetah/screenshots-95-grotti-cheetah2.jpg",
     "type": "photo",
-    "title": "’95 Grotti Cheetah 2",
+    "title": "Screenshots 95 grotti cheetah 2",
     "label": "Photo 2 of 4",
-    "file": "Screenshots ’95 Grotti Cheetah2.jpg",
+    "file": "screenshots-95-grotti-cheetah2.jpg",
     "mb": 0.6
    },
    {
     "path": "media/95-grotti-cheetah/screenshots-95-grotti-cheetah3.jpg",
     "type": "photo",
-    "title": "’95 Grotti Cheetah 3",
+    "title": "Screenshots 95 grotti cheetah 3",
     "label": "Photo 3 of 4",
-    "file": "Screenshots ’95 Grotti Cheetah3.jpg",
+    "file": "screenshots-95-grotti-cheetah3.jpg",
     "mb": 0.5
    },
    {
     "path": "media/95-grotti-cheetah/screenshots-95-grotti-cheetah4.jpg",
     "type": "photo",
-    "title": "’95 Grotti Cheetah 4",
+    "title": "Screenshots 95 grotti cheetah 4",
     "label": "Photo 4 of 4",
-    "file": "Screenshots ’95 Grotti Cheetah4.jpg",
+    "file": "screenshots-95-grotti-cheetah4.jpg",
     "mb": 0.7
    }
   ]
@@ -148,49 +156,49 @@ window.GALLERY = [
    {
     "path": "media/classic-car-collection/screenshots-classic-car-collection1.jpg",
     "type": "photo",
-    "title": "Classic Car Collection 1",
+    "title": "Screenshots classic car collection 1",
     "label": "Photo 1 of 6",
-    "file": "Screenshots Classic Car Collection1.jpg",
+    "file": "screenshots-classic-car-collection1.jpg",
     "mb": 0.7
    },
    {
     "path": "media/classic-car-collection/screenshots-classic-car-collection2.jpg",
     "type": "photo",
-    "title": "Classic Car Collection 2",
+    "title": "Screenshots classic car collection 2",
     "label": "Photo 2 of 6",
-    "file": "Screenshots Classic Car Collection2.jpg",
+    "file": "screenshots-classic-car-collection2.jpg",
     "mb": 0.8
    },
    {
     "path": "media/classic-car-collection/screenshots-classic-car-collection3.jpg",
     "type": "photo",
-    "title": "Classic Car Collection 3",
+    "title": "Screenshots classic car collection 3",
     "label": "Photo 3 of 6",
-    "file": "Screenshots Classic Car Collection3.jpg",
+    "file": "screenshots-classic-car-collection3.jpg",
     "mb": 0.5
    },
    {
     "path": "media/classic-car-collection/screenshots-classic-car-collection4.jpg",
     "type": "photo",
-    "title": "Classic Car Collection 4",
+    "title": "Screenshots classic car collection 4",
     "label": "Photo 4 of 6",
-    "file": "Screenshots Classic Car Collection4.jpg",
+    "file": "screenshots-classic-car-collection4.jpg",
     "mb": 0.6
    },
    {
     "path": "media/classic-car-collection/screenshots-classic-car-collection5.jpg",
     "type": "photo",
-    "title": "Classic Car Collection 5",
+    "title": "Screenshots classic car collection 5",
     "label": "Photo 5 of 6",
-    "file": "Screenshots Classic Car Collection5.jpg",
+    "file": "screenshots-classic-car-collection5.jpg",
     "mb": 0.3
    },
    {
     "path": "media/classic-car-collection/screenshots-classic-car-collection6.jpg",
     "type": "photo",
-    "title": "Classic Car Collection 6",
+    "title": "Screenshots classic car collection 6",
     "label": "Photo 6 of 6",
-    "file": "Screenshots Classic Car Collection6.jpg",
+    "file": "screenshots-classic-car-collection6.jpg",
     "mb": 0.5
    }
   ]
@@ -205,33 +213,33 @@ window.GALLERY = [
    {
     "path": "media/electric-fang-tattoo-parlor/screenshots-electric-fang-tattoo-parlor1.jpg",
     "type": "photo",
-    "title": "Electric Fang Tattoo Parlor 1",
+    "title": "Screenshots electric fang tattoo parlor 1",
     "label": "Photo 1 of 4",
-    "file": "Screenshots Electric Fang Tattoo Parlor1.jpg",
+    "file": "screenshots-electric-fang-tattoo-parlor1.jpg",
     "mb": 0.7
    },
    {
     "path": "media/electric-fang-tattoo-parlor/screenshots-electric-fang-tattoo-parlor2.jpg",
     "type": "photo",
-    "title": "Electric Fang Tattoo Parlor 2",
+    "title": "Screenshots electric fang tattoo parlor 2",
     "label": "Photo 2 of 4",
-    "file": "Screenshots Electric Fang Tattoo Parlor2.jpg",
+    "file": "screenshots-electric-fang-tattoo-parlor2.jpg",
     "mb": 0.6
    },
    {
     "path": "media/electric-fang-tattoo-parlor/screenshots-electric-fang-tattoo-parlor3.jpg",
     "type": "photo",
-    "title": "Electric Fang Tattoo Parlor 3",
+    "title": "Screenshots electric fang tattoo parlor 3",
     "label": "Photo 3 of 4",
-    "file": "Screenshots Electric Fang Tattoo Parlor3.jpg",
+    "file": "screenshots-electric-fang-tattoo-parlor3.jpg",
     "mb": 0.5
    },
    {
     "path": "media/electric-fang-tattoo-parlor/screenshots-electric-fang-tattoo-parlor4.jpg",
     "type": "photo",
-    "title": "Electric Fang Tattoo Parlor 4",
+    "title": "Screenshots electric fang tattoo parlor 4",
     "label": "Photo 4 of 4",
-    "file": "Screenshots Electric Fang Tattoo Parlor4.jpg",
+    "file": "screenshots-electric-fang-tattoo-parlor4.jpg",
     "mb": 0.5
    }
   ]
@@ -246,9 +254,9 @@ window.GALLERY = [
    {
     "path": "media/ganado-retro-build/screenshots-ganado-retro-build1.jpg",
     "type": "photo",
-    "title": "Ganado Retro Build 1",
+    "title": "Screenshots ganado retro build 1",
     "label": "Photo 1 of 1",
-    "file": "Screenshots Ganado Retro Build1.jpg",
+    "file": "screenshots-ganado-retro-build1.jpg",
     "mb": 1.0
    }
   ]
@@ -263,9 +271,9 @@ window.GALLERY = [
    {
     "path": "media/goodtime-gear/screenshots-goodtime-gear1.jpg",
     "type": "photo",
-    "title": "Goodtime Gear 1",
+    "title": "Screenshots goodtime gear 1",
     "label": "Photo 1 of 1",
-    "file": "Screenshots Goodtime Gear1.jpg",
+    "file": "screenshots-goodtime-gear1.jpg",
     "mb": 0.6
    }
   ]
@@ -280,17 +288,17 @@ window.GALLERY = [
    {
     "path": "media/hawk-and-little-morgan-revolvers/screenshots-hawk-and-little-morgan-revolvers1.jpg",
     "type": "photo",
-    "title": "Hawk & Little Morgan Revolvers 1",
+    "title": "Screenshots hawk and little morgan revolvers 1",
     "label": "Photo 1 of 2",
-    "file": "Screenshots Hawk & Little Morgan Revolvers1.jpg",
+    "file": "screenshots-hawk-and-little-morgan-revolvers1.jpg",
     "mb": 0.3
    },
    {
     "path": "media/hawk-and-little-morgan-revolvers/screenshots-hawk-and-little-morgan-revolvers2.jpg",
     "type": "photo",
-    "title": "Hawk & Little Morgan Revolvers 2",
+    "title": "Screenshots hawk and little morgan revolvers 2",
     "label": "Photo 2 of 2",
-    "file": "Screenshots Hawk & Little Morgan Revolvers2.jpg",
+    "file": "screenshots-hawk-and-little-morgan-revolvers2.jpg",
     "mb": 0.5
    }
   ]
@@ -305,25 +313,25 @@ window.GALLERY = [
    {
     "path": "media/jasons-safehouse-vehicles/screenshots-jasons-safehouse-vehicles1.jpg",
     "type": "photo",
-    "title": "Jason’s Safehouse Vehicles 1",
+    "title": "Screenshots jasons safehouse vehicles 1",
     "label": "Photo 1 of 3",
-    "file": "Screenshots Jason’s Safehouse Vehicles1.jpg",
+    "file": "screenshots-jasons-safehouse-vehicles1.jpg",
     "mb": 1.0
    },
    {
     "path": "media/jasons-safehouse-vehicles/screenshots-jasons-safehouse-vehicles2.jpg",
     "type": "photo",
-    "title": "Jason’s Safehouse Vehicles 2",
+    "title": "Screenshots jasons safehouse vehicles 2",
     "label": "Photo 2 of 3",
-    "file": "Screenshots Jason’s Safehouse Vehicles2.jpg",
+    "file": "screenshots-jasons-safehouse-vehicles2.jpg",
     "mb": 0.6
    },
    {
     "path": "media/jasons-safehouse-vehicles/screenshots-jasons-safehouse-vehicles3.jpg",
     "type": "photo",
-    "title": "Jason’s Safehouse Vehicles 3",
+    "title": "Screenshots jasons safehouse vehicles 3",
     "label": "Photo 3 of 3",
-    "file": "Screenshots Jason’s Safehouse Vehicles3.jpg",
+    "file": "screenshots-jasons-safehouse-vehicles3.jpg",
     "mb": 0.9
    }
   ]
@@ -338,25 +346,25 @@ window.GALLERY = [
    {
     "path": "media/one-eyed-willies-mod-shop/screenshots-one-eyed-willies-mod-shop1.jpg",
     "type": "photo",
-    "title": "One-Eyed Willie’s Mod Shop 1",
+    "title": "Screenshots one eyed willies mod shop 1",
     "label": "Photo 1 of 3",
-    "file": "Screenshots One-Eyed Willie’s Mod Shop1.jpg",
+    "file": "screenshots-one-eyed-willies-mod-shop1.jpg",
     "mb": 0.9
    },
    {
     "path": "media/one-eyed-willies-mod-shop/screenshots-one-eyed-willies-mod-shop2.jpg",
     "type": "photo",
-    "title": "One-Eyed Willie’s Mod Shop 2",
+    "title": "Screenshots one eyed willies mod shop 2",
     "label": "Photo 2 of 3",
-    "file": "Screenshots One-Eyed Willie’s Mod Shop2.jpg",
+    "file": "screenshots-one-eyed-willies-mod-shop2.jpg",
     "mb": 0.7
    },
    {
     "path": "media/one-eyed-willies-mod-shop/screenshots-one-eyed-willies-mod-shop3.jpg",
     "type": "photo",
-    "title": "One-Eyed Willie’s Mod Shop 3",
+    "title": "Screenshots one eyed willies mod shop 3",
     "label": "Photo 3 of 3",
-    "file": "Screenshots One-Eyed Willie’s Mod Shop3.jpg",
+    "file": "screenshots-one-eyed-willies-mod-shop3.jpg",
     "mb": 0.5
    }
   ]
@@ -371,9 +379,9 @@ window.GALLERY = [
    {
     "path": "media/personalized-weapon-variants/screenshots-personalized-weapon-variants1.jpg",
     "type": "photo",
-    "title": "Personalized Weapon Variants 1",
+    "title": "Screenshots personalized weapon variants 1",
     "label": "Photo 1 of 1",
-    "file": "Screenshots Personalized Weapon Variants1.jpg",
+    "file": "screenshots-personalized-weapon-variants1.jpg",
     "mb": 0.7
    }
   ]
@@ -388,9 +396,9 @@ window.GALLERY = [
    {
     "path": "media/ptt-youngins-illegal-goods-store/screenshots-ptt-youngins-illegal-goods-store1.jpg",
     "type": "photo",
-    "title": "PTT Youngin$ Illegal Goods Store 1",
+    "title": "Screenshots ptt youngins illegal goods store 1",
     "label": "Photo 1 of 1",
-    "file": "Screenshots PTT Youngin$ Illegal Goods Store1.jpg",
+    "file": "screenshots-ptt-youngins-illegal-goods-store1.jpg",
     "mb": 0.9
    }
   ]
@@ -405,25 +413,25 @@ window.GALLERY = [
    {
     "path": "media/rideout-customs-mod-shop/screenshots-rideout-customs-mod-shop1.jpg",
     "type": "photo",
-    "title": "Rideout Customs Mod Shop 1",
+    "title": "Screenshots rideout customs mod shop 1",
     "label": "Photo 1 of 3",
-    "file": "Screenshots Rideout Customs Mod Shop1.jpg",
+    "file": "screenshots-rideout-customs-mod-shop1.jpg",
     "mb": 0.8
    },
    {
     "path": "media/rideout-customs-mod-shop/screenshots-rideout-customs-mod-shop2.jpg",
     "type": "photo",
-    "title": "Rideout Customs Mod Shop 2",
+    "title": "Screenshots rideout customs mod shop 2",
     "label": "Photo 2 of 3",
-    "file": "Screenshots Rideout Customs Mod Shop2.jpg",
+    "file": "screenshots-rideout-customs-mod-shop2.jpg",
     "mb": 1.0
    },
    {
     "path": "media/rideout-customs-mod-shop/screenshots-rideout-customs-mod-shop3.jpg",
     "type": "photo",
-    "title": "Rideout Customs Mod Shop 3",
+    "title": "Screenshots rideout customs mod shop 3",
     "label": "Photo 3 of 3",
-    "file": "Screenshots Rideout Customs Mod Shop3.jpg",
+    "file": "screenshots-rideout-customs-mod-shop3.jpg",
     "mb": 0.5
    }
   ]
@@ -438,25 +446,25 @@ window.GALLERY = [
    {
     "path": "media/saras-unisex-salon/screenshots-saras-unisex-salon1.jpg",
     "type": "photo",
-    "title": "Sara’s Unisex Salon 1",
+    "title": "Screenshots saras unisex salon 1",
     "label": "Photo 1 of 3",
-    "file": "Screenshots Sara’s Unisex Salon1.jpg",
+    "file": "screenshots-saras-unisex-salon1.jpg",
     "mb": 0.6
    },
    {
     "path": "media/saras-unisex-salon/screenshots-saras-unisex-salon2.jpg",
     "type": "photo",
-    "title": "Sara’s Unisex Salon 2",
+    "title": "Screenshots saras unisex salon 2",
     "label": "Photo 2 of 3",
-    "file": "Screenshots Sara’s Unisex Salon2.jpg",
+    "file": "screenshots-saras-unisex-salon2.jpg",
     "mb": 0.4
    },
    {
     "path": "media/saras-unisex-salon/screenshots-saras-unisex-salon3.jpg",
     "type": "photo",
-    "title": "Sara’s Unisex Salon 3",
+    "title": "Screenshots saras unisex salon 3",
     "label": "Photo 3 of 3",
-    "file": "Screenshots Sara’s Unisex Salon3.jpg",
+    "file": "screenshots-saras-unisex-salon3.jpg",
     "mb": 0.4
    }
   ]
@@ -471,33 +479,33 @@ window.GALLERY = [
    {
     "path": "media/shitzu-squalo/screenshots-shitzu-squalo1.jpg",
     "type": "photo",
-    "title": "Shitzu Squalo 1",
+    "title": "Screenshots shitzu squalo 1",
     "label": "Photo 1 of 4",
-    "file": "Screenshots Shitzu Squalo1.jpg",
+    "file": "screenshots-shitzu-squalo1.jpg",
     "mb": 0.7
    },
    {
     "path": "media/shitzu-squalo/screenshots-shitzu-squalo2.jpg",
     "type": "photo",
-    "title": "Shitzu Squalo 2",
+    "title": "Screenshots shitzu squalo 2",
     "label": "Photo 2 of 4",
-    "file": "Screenshots Shitzu Squalo2.jpg",
+    "file": "screenshots-shitzu-squalo2.jpg",
     "mb": 0.6
    },
    {
     "path": "media/shitzu-squalo/screenshots-shitzu-squalo3.jpg",
     "type": "photo",
-    "title": "Shitzu Squalo 3",
+    "title": "Screenshots shitzu squalo 3",
     "label": "Photo 3 of 4",
-    "file": "Screenshots Shitzu Squalo3.jpg",
+    "file": "screenshots-shitzu-squalo3.jpg",
     "mb": 0.5
    },
    {
     "path": "media/shitzu-squalo/screenshots-shitzu-squalo4.jpg",
     "type": "photo",
-    "title": "Shitzu Squalo 4",
+    "title": "Screenshots shitzu squalo 4",
     "label": "Photo 4 of 4",
-    "file": "Screenshots Shitzu Squalo4.jpg",
+    "file": "screenshots-shitzu-squalo4.jpg",
     "mb": 0.8
    }
   ]
@@ -512,33 +520,33 @@ window.GALLERY = [
    {
     "path": "media/stock-305-clothing-store/screenshots-stock-305-clothing-store1.jpg",
     "type": "photo",
-    "title": "Stock 305 Clothing Store 1",
+    "title": "Screenshots stock 305 clothing store 1",
     "label": "Photo 1 of 4",
-    "file": "Screenshots Stock 305 Clothing Store1.jpg",
+    "file": "screenshots-stock-305-clothing-store1.jpg",
     "mb": 0.9
    },
    {
     "path": "media/stock-305-clothing-store/screenshots-stock-305-clothing-store2.jpg",
     "type": "photo",
-    "title": "Stock 305 Clothing Store 2",
+    "title": "Screenshots stock 305 clothing store 2",
     "label": "Photo 2 of 4",
-    "file": "Screenshots Stock 305 Clothing Store2.jpg",
+    "file": "screenshots-stock-305-clothing-store2.jpg",
     "mb": 0.9
    },
    {
     "path": "media/stock-305-clothing-store/screenshots-stock-305-clothing-store3.jpg",
     "type": "photo",
-    "title": "Stock 305 Clothing Store 3",
+    "title": "Screenshots stock 305 clothing store 3",
     "label": "Photo 3 of 4",
-    "file": "Screenshots Stock 305 Clothing Store3.jpg",
+    "file": "screenshots-stock-305-clothing-store3.jpg",
     "mb": 0.6
    },
    {
     "path": "media/stock-305-clothing-store/screenshots-stock-305-clothing-store4.jpg",
     "type": "photo",
-    "title": "Stock 305 Clothing Store 4",
+    "title": "Screenshots stock 305 clothing store 4",
     "label": "Photo 4 of 4",
-    "file": "Screenshots Stock 305 Clothing Store4.jpg",
+    "file": "screenshots-stock-305-clothing-store4.jpg",
     "mb": 0.6
    }
   ]
@@ -553,89 +561,89 @@ window.GALLERY = [
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack01.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 01",
+    "title": "Screenshots vintage vice city pack 01",
     "label": "Photo 1 of 11",
-    "file": "Screenshots Vintage Vice City Pack01.jpg",
+    "file": "screenshots-vintage-vice-city-pack01.jpg",
     "mb": 0.4
    },
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack02.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 02",
+    "title": "Screenshots vintage vice city pack 02",
     "label": "Photo 2 of 11",
-    "file": "Screenshots Vintage Vice City Pack02.jpg",
+    "file": "screenshots-vintage-vice-city-pack02.jpg",
     "mb": 0.8
    },
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack03.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 03",
+    "title": "Screenshots vintage vice city pack 03",
     "label": "Photo 3 of 11",
-    "file": "Screenshots Vintage Vice City Pack03.jpg",
+    "file": "screenshots-vintage-vice-city-pack03.jpg",
     "mb": 0.5
    },
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack04.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 04",
+    "title": "Screenshots vintage vice city pack 04",
     "label": "Photo 4 of 11",
-    "file": "Screenshots Vintage Vice City Pack04.jpg",
+    "file": "screenshots-vintage-vice-city-pack04.jpg",
     "mb": 0.6
    },
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack05.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 05",
+    "title": "Screenshots vintage vice city pack 05",
     "label": "Photo 5 of 11",
-    "file": "Screenshots Vintage Vice City Pack05.jpg",
+    "file": "screenshots-vintage-vice-city-pack05.jpg",
     "mb": 0.4
    },
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack06.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 06",
+    "title": "Screenshots vintage vice city pack 06",
     "label": "Photo 6 of 11",
-    "file": "Screenshots Vintage Vice City Pack06.jpg",
+    "file": "screenshots-vintage-vice-city-pack06.jpg",
     "mb": 0.5
    },
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack07.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 07",
+    "title": "Screenshots vintage vice city pack 07",
     "label": "Photo 7 of 11",
-    "file": "Screenshots Vintage Vice City Pack07.jpg",
+    "file": "screenshots-vintage-vice-city-pack07.jpg",
     "mb": 0.7
    },
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack08.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 08",
+    "title": "Screenshots vintage vice city pack 08",
     "label": "Photo 8 of 11",
-    "file": "Screenshots Vintage Vice City Pack08.jpg",
+    "file": "screenshots-vintage-vice-city-pack08.jpg",
     "mb": 0.5
    },
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack09.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 09",
+    "title": "Screenshots vintage vice city pack 09",
     "label": "Photo 9 of 11",
-    "file": "Screenshots Vintage Vice City Pack09.jpg",
+    "file": "screenshots-vintage-vice-city-pack09.jpg",
     "mb": 0.6
    },
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack10.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 10",
+    "title": "Screenshots vintage vice city pack 10",
     "label": "Photo 10 of 11",
-    "file": "Screenshots Vintage Vice City Pack10.jpg",
+    "file": "screenshots-vintage-vice-city-pack10.jpg",
     "mb": 0.5
    },
    {
     "path": "media/vice-city-pack/screenshots-vintage-vice-city-pack11.jpg",
     "type": "photo",
-    "title": "Vintage Vice City Pack 11",
+    "title": "Screenshots vintage vice city pack 11",
     "label": "Photo 11 of 11",
-    "file": "Screenshots Vintage Vice City Pack11.jpg",
+    "file": "screenshots-vintage-vice-city-pack11.jpg",
     "mb": 0.5
    }
   ]
@@ -650,41 +658,41 @@ window.GALLERY = [
    {
     "path": "media/vice-city-style/screenshots-vice-city-style1.jpg",
     "type": "photo",
-    "title": "Vice City Style 1",
+    "title": "Screenshots vice city style 1",
     "label": "Photo 1 of 5",
-    "file": "Screenshots Vice City Style1.jpg",
+    "file": "screenshots-vice-city-style1.jpg",
     "mb": 0.4
    },
    {
     "path": "media/vice-city-style/screenshots-vice-city-style2.jpg",
     "type": "photo",
-    "title": "Vice City Style 2",
+    "title": "Screenshots vice city style 2",
     "label": "Photo 2 of 5",
-    "file": "Screenshots Vice City Style2.jpg",
+    "file": "screenshots-vice-city-style2.jpg",
     "mb": 0.5
    },
    {
     "path": "media/vice-city-style/screenshots-vice-city-style3.jpg",
     "type": "photo",
-    "title": "Vice City Style 3",
+    "title": "Screenshots vice city style 3",
     "label": "Photo 3 of 5",
-    "file": "Screenshots Vice City Style3.jpg",
+    "file": "screenshots-vice-city-style3.jpg",
     "mb": 0.8
    },
    {
     "path": "media/vice-city-style/screenshots-vice-city-style4.jpg",
     "type": "photo",
-    "title": "Vice City Style 4",
+    "title": "Screenshots vice city style 4",
     "label": "Photo 4 of 5",
-    "file": "Screenshots Vice City Style4.jpg",
+    "file": "screenshots-vice-city-style4.jpg",
     "mb": 0.5
    },
    {
     "path": "media/vice-city-style/screenshots-vice-city-style5.jpg",
     "type": "photo",
-    "title": "Vice City Style 5",
+    "title": "Screenshots vice city style 5",
     "label": "Photo 5 of 5",
-    "file": "Screenshots Vice City Style5.jpg",
+    "file": "screenshots-vice-city-style5.jpg",
     "mb": 0.4
    }
   ]

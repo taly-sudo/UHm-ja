@@ -42,11 +42,12 @@ FIRST = ["clips-discord"]
 
 def pretty(name):
     base = os.path.splitext(name)[0]
-    m = re.match(r"^photo_(\d{4})-(\d{2})-(\d{2})_(\d{2})-(\d{2})", base)
+    m = re.match(r"^(photo|video|clip)_(\d{4})-(\d{2})-(\d{2})_(\d{2})-(\d{2})", base, re.I)
     if m:
         months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
-        y, mo, d, hh, mm = m.groups()
-        return "Photo, %s %s %s at %s:%s" % (int(d), months[int(mo)-1], y, hh, mm)
+        kind, y, mo, d, hh, mm = m.groups()
+        word = "Photo" if kind.lower() == "photo" else "Clip"
+        return "%s, %s %s %s at %s:%s" % (word, int(d), months[int(mo)-1], y, hh, mm)
     base = re.sub(r"^\[.*?\]\s*", "", base)
     base = re.sub(r"^redvid[ _]io[ _]", "", base, flags=re.I)
     base = re.sub(r"^Screenshots?\s+", "", base)

@@ -73,6 +73,39 @@ window.GALLERY = [
   ]
  },
  {
+  "name": "Unsorted",
+  "slug": "unsorted",
+  "desc": "Photos that sat loose in the gtra6 folder, not in any collection.",
+  "photos": 3,
+  "videos": 0,
+  "items": [
+   {
+    "path": "media/unsorted/photo_2026-08-21_23-52-54.jpg",
+    "type": "photo",
+    "title": "Photo, 21 Aug 2026 at 23:52",
+    "label": "Photo 1 of 3",
+    "file": "photo_2026-08-21_23-52-54.jpg",
+    "mb": 0.2
+   },
+   {
+    "path": "media/unsorted/photo_2026-08-21_23-52-56.jpg",
+    "type": "photo",
+    "title": "Photo, 21 Aug 2026 at 23:52",
+    "label": "Photo 2 of 3",
+    "file": "photo_2026-08-21_23-52-56.jpg",
+    "mb": 0.2
+   },
+   {
+    "path": "media/unsorted/photo_2026-08-21_23-53-00.jpg",
+    "type": "photo",
+    "title": "Photo, 21 Aug 2026 at 23:53",
+    "label": "Photo 3 of 3",
+    "file": "photo_2026-08-21_23-53-00.jpg",
+    "mb": 0.4
+   }
+  ]
+ },
+ {
   "name": "’67 Vapid Dominator Buggy",
   "slug": "67-vapid-dominator-buggy",
   "desc": "Screenshots of the ’67 Vapid Dominator Buggy.",

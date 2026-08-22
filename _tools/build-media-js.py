@@ -34,10 +34,11 @@ META = {
  "hawk-and-little-morgan-revolvers": ("Hawk & Little Morgan Revolvers", "Screenshots of the Hawk & Little Morgan revolvers."),
  "personalized-weapon-variants": ("Personalized Weapon Variants", "Screenshot of personalized weapon variants."),
  "clips-discord": ("clips-discord", "Gameplay clips."),
+ "unsorted": ("Unsorted", "Photos that sat loose in the gtra6 folder, not in any collection."),
 }
 
 # Collections listed first, in this order; the rest follow alphabetically.
-FIRST = ["clips-discord"]
+FIRST = ["clips-discord", "unsorted"]
 
 
 def pretty(name):

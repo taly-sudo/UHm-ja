@@ -4,21 +4,29 @@ window.GALLERY = [
   "slug": "clips-discord",
   "desc": "Gameplay clips.",
   "photos": 0,
-  "videos": 8,
+  "videos": 9,
   "items": [
    {
     "path": "media/clips-discord/%5B%40download_it_bot%20720p%5D%20Official%20gta%206%20leak%20hypercar%20video.mp4",
     "type": "video",
     "title": "Official GTA 6 leak hypercar video",
-    "label": "Clip 1 of 8",
+    "label": "Clip 1 of 9",
     "file": "[@download_it_bot 720p] Official gta 6 leak hypercar video.mp4",
     "mb": 27.6
+   },
+   {
+    "path": "media/clips-discord/aLnuxAUHWnPOuQ_remux.mp4",
+    "type": "video",
+    "title": "Untitled clip (aLnuxAUHWnPOuQ)",
+    "label": "Clip 2 of 9",
+    "file": "aLnuxAUHWnPOuQ_remux.mp4",
+    "mb": 21.7
    },
    {
     "path": "media/clips-discord/ejqhhc.mp4",
     "type": "video",
     "title": "Untitled clip (ejqhhc)",
-    "label": "Clip 2 of 8",
+    "label": "Clip 3 of 9",
     "file": "ejqhhc.mp4",
     "mb": 35.4
    },
@@ -26,7 +34,7 @@ window.GALLERY = [
     "path": "media/clips-discord/nmbqlk.mp4",
     "type": "video",
     "title": "Untitled clip (nmbqlk)",
-    "label": "Clip 3 of 8",
+    "label": "Clip 4 of 9",
     "file": "nmbqlk.mp4",
     "mb": 28.8
    },
@@ -34,7 +42,7 @@ window.GALLERY = [
     "path": "media/clips-discord/redvid_io_new_gta_leak_plane_fly_by.mp4",
     "type": "video",
     "title": "New GTA leak plane fly by",
-    "label": "Clip 4 of 8",
+    "label": "Clip 5 of 9",
     "file": "redvid_io_new_gta_leak_plane_fly_by.mp4",
     "mb": 63.5
    },
@@ -42,7 +50,7 @@ window.GALLERY = [
     "path": "media/clips-discord/redvid_io_new_leak.mp4",
     "type": "video",
     "title": "New leak",
-    "label": "Clip 5 of 8",
+    "label": "Clip 6 of 9",
     "file": "redvid_io_new_leak.mp4",
     "mb": 67.5
    },
@@ -50,7 +58,7 @@ window.GALLERY = [
     "path": "media/clips-discord/sunset-boulevard-ride.mp4",
     "type": "video",
     "title": "Sunset boulevard ride",
-    "label": "Clip 6 of 8",
+    "label": "Clip 7 of 9",
     "file": "sunset-boulevard-ride.mp4",
     "mb": 8.9
    },
@@ -58,7 +66,7 @@ window.GALLERY = [
     "path": "media/clips-discord/video_2026-08-22_17-16-34.mp4",
     "type": "video",
     "title": "Clip, 22 Aug 2026 at 17:16",
-    "label": "Clip 7 of 8",
+    "label": "Clip 8 of 9",
     "file": "video_2026-08-22_17-16-34.mp4",
     "mb": 38.2
    },
@@ -66,7 +74,7 @@ window.GALLERY = [
     "path": "media/clips-discord/xeczw7.mp4",
     "type": "video",
     "title": "Untitled clip (xeczw7)",
-    "label": "Clip 8 of 8",
+    "label": "Clip 9 of 9",
     "file": "xeczw7.mp4",
     "mb": 35.5
    }

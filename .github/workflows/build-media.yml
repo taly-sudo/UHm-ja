@@ -1,0 +1,41 @@
+name: Rebuild media.js
+
+# Whenever media/ changes on main, regenerate media.js so every file in
+# media/ actually shows up on the site — no need to remember to run the
+# script locally before pushing.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'media/**'
+      - '_tools/build-media-js.py'
+      - '.github/workflows/build-media.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Regenerate media.js
+        run: python _tools/build-media-js.py
+
+      - name: Commit if it changed
+        run: |
+          if git diff --quiet -- media.js; then
+            echo "media.js already up to date"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add media.js
+          git commit -m "Rebuild media.js [skip ci]"
+          git push

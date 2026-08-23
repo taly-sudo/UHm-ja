@@ -58,12 +58,17 @@ def pretty(name):
     base = re.sub(r"\s+", " ", base).strip()
     # Random-looking download IDs (optionally with a _remux / _final / _720p tail)
     token = re.sub(r"[ _-](remux|final|copy|\d{3,4}p)$", "", base, flags=re.I)
+    if re.fullmatch(r"[\d\s_]{8,}", token):          # e.g. 2_5213057941824904843
+        return "Untitled clip (%s)" % token.strip()
     if " " not in token and len(token) >= 5:
-        looks_random = (re.fullmatch(r"[a-z0-9]{5,8}", token)
-                        or (re.fullmatch(r"[A-Za-z0-9_-]{8,}", token)
-                            and any(c.islower() for c in token)
-                            and any(c.isupper() for c in token)))
-        if looks_random:
+        letters = [c for c in token if c.isalpha()]
+        vowels = sum(1 for c in letters if c.lower() in "aeiou")
+        # a real word has vowels; an ID like "ejqhhc" or "xeczw7" barely does
+        no_vowels = letters and vowels / len(letters) < 0.3
+        mixed_case = (re.fullmatch(r"[A-Za-z0-9_-]{8,}", token)
+                      and any(c.islower() for c in token)
+                      and any(c.isupper() for c in token))
+        if (re.fullmatch(r"[a-z0-9]{5,8}", token) and no_vowels) or mixed_case:
             return "Untitled clip (%s)" % token
     base = re.sub(r"(?<=[A-Za-z])(\d+)$", r" \1", base)
     base = re.sub(r"\bgta\b", "GTA", base, flags=re.I)

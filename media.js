@@ -4,95 +4,119 @@ window.GALLERY = [
   "slug": "clips-discord",
   "desc": "Gameplay clips.",
   "photos": 0,
-  "videos": 11,
+  "videos": 14,
   "items": [
    {
-    "path": "media/clips-discord/2_5213057941824904843.mp4",
+    "path": "media/clips-discord/2026-08-21%20clip%20ejqhhc.mp4",
     "type": "video",
-    "title": "Untitled clip (2 5213057941824904843)",
-    "label": "Clip 1 of 11",
-    "file": "2_5213057941824904843.mp4",
-    "mb": 51.5
-   },
-   {
-    "path": "media/clips-discord/%5B%40download_it_bot%20720p%5D%20Official%20gta%206%20leak%20hypercar%20video.mp4",
-    "type": "video",
-    "title": "Official GTA 6 leak hypercar video",
-    "label": "Clip 2 of 11",
-    "file": "[@download_it_bot 720p] Official gta 6 leak hypercar video.mp4",
-    "mb": 27.6
-   },
-   {
-    "path": "media/clips-discord/aLnuxAUHWnPOuQ_remux.mp4",
-    "type": "video",
-    "title": "Untitled clip (aLnuxAUHWnPOuQ)",
-    "label": "Clip 3 of 11",
-    "file": "aLnuxAUHWnPOuQ_remux.mp4",
-    "mb": 21.7
-   },
-   {
-    "path": "media/clips-discord/ejqhhc.mp4",
-    "type": "video",
-    "title": "Untitled clip (ejqhhc)",
-    "label": "Clip 4 of 11",
-    "file": "ejqhhc.mp4",
+    "title": "21 Aug 2026 — Clip ejqhhc",
+    "label": "Clip 1 of 14",
+    "file": "2026-08-21 clip ejqhhc.mp4",
     "mb": 35.4
    },
    {
-    "path": "media/clips-discord/nmbqlk.mp4",
+    "path": "media/clips-discord/2026-08-21%20clip%20nmbqlk.mp4",
     "type": "video",
-    "title": "Untitled clip (nmbqlk)",
-    "label": "Clip 5 of 11",
-    "file": "nmbqlk.mp4",
+    "title": "21 Aug 2026 — Clip nmbqlk",
+    "label": "Clip 2 of 14",
+    "file": "2026-08-21 clip nmbqlk.mp4",
     "mb": 28.8
    },
    {
-    "path": "media/clips-discord/plane2.mp4",
+    "path": "media/clips-discord/2026-08-21%20clip%20xeczw7.mp4",
     "type": "video",
-    "title": "Plane 2",
-    "label": "Clip 6 of 11",
-    "file": "plane2.mp4",
-    "mb": 29.1
+    "title": "21 Aug 2026 — Clip xeczw7",
+    "label": "Clip 3 of 14",
+    "file": "2026-08-21 clip xeczw7.mp4",
+    "mb": 35.5
    },
    {
-    "path": "media/clips-discord/redvid_io_new_gta_leak_plane_fly_by.mp4",
+    "path": "media/clips-discord/2026-08-21%20new%20gta%20leak%20plane%20fly%20by.mp4",
     "type": "video",
-    "title": "New GTA leak plane fly by",
-    "label": "Clip 7 of 11",
-    "file": "redvid_io_new_gta_leak_plane_fly_by.mp4",
+    "title": "21 Aug 2026 — New GTA leak plane fly by",
+    "label": "Clip 4 of 14",
+    "file": "2026-08-21 new gta leak plane fly by.mp4",
     "mb": 63.5
    },
    {
-    "path": "media/clips-discord/redvid_io_new_leak.mp4",
+    "path": "media/clips-discord/2026-08-21%20new%20leak.mp4",
     "type": "video",
-    "title": "New leak",
-    "label": "Clip 8 of 11",
-    "file": "redvid_io_new_leak.mp4",
+    "title": "21 Aug 2026 — New leak",
+    "label": "Clip 5 of 14",
+    "file": "2026-08-21 new leak.mp4",
     "mb": 67.5
    },
    {
-    "path": "media/clips-discord/sunset-boulevard-ride.mp4",
+    "path": "media/clips-discord/2026-08-21%20official%20gta%206%20leak%20hypercar%20video.mp4",
     "type": "video",
-    "title": "Sunset boulevard ride",
-    "label": "Clip 9 of 11",
-    "file": "sunset-boulevard-ride.mp4",
-    "mb": 8.9
+    "title": "21 Aug 2026 — Official GTA 6 leak hypercar video",
+    "label": "Clip 6 of 14",
+    "file": "2026-08-21 official gta 6 leak hypercar video.mp4",
+    "mb": 27.6
    },
    {
-    "path": "media/clips-discord/video_2026-08-22_17-16-34.mp4",
+    "path": "media/clips-discord/2026-08-22%20clip%20alnuxauhwnpouq.mp4",
     "type": "video",
-    "title": "Clip, 22 Aug 2026 at 17:16",
-    "label": "Clip 10 of 11",
-    "file": "video_2026-08-22_17-16-34.mp4",
+    "title": "22 Aug 2026 — Clip alnuxauhwnpouq",
+    "label": "Clip 7 of 14",
+    "file": "2026-08-22 clip alnuxauhwnpouq.mp4",
+    "mb": 21.7
+   },
+   {
+    "path": "media/clips-discord/2026-08-22.mp4",
+    "type": "video",
+    "title": "22 Aug 2026",
+    "label": "Clip 8 of 14",
+    "file": "2026-08-22.mp4",
     "mb": 38.2
    },
    {
-    "path": "media/clips-discord/xeczw7.mp4",
+    "path": "media/clips-discord/2026-08-23%20clip.mp4",
     "type": "video",
-    "title": "Untitled clip (xeczw7)",
-    "label": "Clip 11 of 11",
-    "file": "xeczw7.mp4",
-    "mb": 35.5
+    "title": "23 Aug 2026 — Clip",
+    "label": "Clip 9 of 14",
+    "file": "2026-08-23 clip.mp4",
+    "mb": 51.5
+   },
+   {
+    "path": "media/clips-discord/2026-08-23%20plane2.mp4",
+    "type": "video",
+    "title": "23 Aug 2026 — Plane2",
+    "label": "Clip 10 of 14",
+    "file": "2026-08-23 plane2.mp4",
+    "mb": 29.1
+   },
+   {
+    "path": "media/clips-discord/2026-08-24.mp4",
+    "type": "video",
+    "title": "24 Aug 2026",
+    "label": "Clip 11 of 14",
+    "file": "2026-08-24.mp4",
+    "mb": 44.7
+   },
+   {
+    "path": "media/clips-discord/2026-08-25%20beach.mp4",
+    "type": "video",
+    "title": "25 Aug 2026 — Beach",
+    "label": "Clip 12 of 14",
+    "file": "2026-08-25 beach.mp4",
+    "mb": 40.3
+   },
+   {
+    "path": "media/clips-discord/2026-08-25%20littleblass.mp4",
+    "type": "video",
+    "title": "25 Aug 2026 — Littleblass",
+    "label": "Clip 13 of 14",
+    "file": "2026-08-25 littleblass.mp4",
+    "mb": 63.5
+   },
+   {
+    "path": "media/clips-discord/2026-08-25%20nine1nine.mp4",
+    "type": "video",
+    "title": "25 Aug 2026 — Nine1nine",
+    "label": "Clip 14 of 14",
+    "file": "2026-08-25 nine1nine.mp4",
+    "mb": 51.7
    }
   ]
  },

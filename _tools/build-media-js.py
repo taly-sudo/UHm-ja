@@ -49,6 +49,22 @@ def pretty(name):
         kind, y, mo, d, hh, mm = m.groups()
         word = "Photo" if kind.lower() == "photo" else "Clip"
         return "%s, %s %s %s at %s:%s" % (word, int(d), months[int(mo)-1], y, hh, mm)
+    # "2026-08-25 beach" -> "25 Aug 2026 — Beach";  "2026-08-22" -> "22 Aug 2026"
+    m = re.match(r"^(\d{4})-(\d{2})-(\d{2})[ _-]*(.*)$", base)
+    if m:
+        months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+        y, mo, d, rest = m.groups()
+        try:
+            stamp = "%d %s %s" % (int(d), months[int(mo) - 1], y)
+        except IndexError:
+            stamp = None
+        if stamp:
+            rest = re.sub(r"\s+", " ", rest.replace("_", " ")).strip()
+            if not rest:
+                return stamp
+            rest = re.sub(r"\bgta\b", "GTA", rest, flags=re.I)
+            return "%s — %s" % (stamp, rest[:1].upper() + rest[1:])
+
     base = re.sub(r"^\[.*?\]\s*", "", base)
     base = re.sub(r"^redvid[ _]io[ _]", "", base, flags=re.I)
     base = re.sub(r"^Screenshots?\s+", "", base)

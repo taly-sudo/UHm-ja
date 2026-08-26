@@ -4,13 +4,13 @@ window.GALLERY = [
   "slug": "clips-discord",
   "desc": "Gameplay clips.",
   "photos": 0,
-  "videos": 14,
+  "videos": 15,
   "items": [
    {
     "path": "media/clips-discord/2026-08-21%20clip%20ejqhhc.mp4",
     "type": "video",
     "title": "21 Aug 2026 — Clip ejqhhc",
-    "label": "Clip 1 of 14",
+    "label": "Clip 1 of 15",
     "file": "2026-08-21 clip ejqhhc.mp4",
     "mb": 35.4
    },
@@ -18,7 +18,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-21%20clip%20nmbqlk.mp4",
     "type": "video",
     "title": "21 Aug 2026 — Clip nmbqlk",
-    "label": "Clip 2 of 14",
+    "label": "Clip 2 of 15",
     "file": "2026-08-21 clip nmbqlk.mp4",
     "mb": 28.8
    },
@@ -26,7 +26,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-21%20clip%20xeczw7.mp4",
     "type": "video",
     "title": "21 Aug 2026 — Clip xeczw7",
-    "label": "Clip 3 of 14",
+    "label": "Clip 3 of 15",
     "file": "2026-08-21 clip xeczw7.mp4",
     "mb": 35.5
    },
@@ -34,7 +34,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-21%20new%20gta%20leak%20plane%20fly%20by.mp4",
     "type": "video",
     "title": "21 Aug 2026 — New GTA leak plane fly by",
-    "label": "Clip 4 of 14",
+    "label": "Clip 4 of 15",
     "file": "2026-08-21 new gta leak plane fly by.mp4",
     "mb": 63.5
    },
@@ -42,7 +42,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-21%20new%20leak.mp4",
     "type": "video",
     "title": "21 Aug 2026 — New leak",
-    "label": "Clip 5 of 14",
+    "label": "Clip 5 of 15",
     "file": "2026-08-21 new leak.mp4",
     "mb": 67.5
    },
@@ -50,7 +50,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-21%20official%20gta%206%20leak%20hypercar%20video.mp4",
     "type": "video",
     "title": "21 Aug 2026 — Official GTA 6 leak hypercar video",
-    "label": "Clip 6 of 14",
+    "label": "Clip 6 of 15",
     "file": "2026-08-21 official gta 6 leak hypercar video.mp4",
     "mb": 27.6
    },
@@ -58,7 +58,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-22%20clip%20alnuxauhwnpouq.mp4",
     "type": "video",
     "title": "22 Aug 2026 — Clip alnuxauhwnpouq",
-    "label": "Clip 7 of 14",
+    "label": "Clip 7 of 15",
     "file": "2026-08-22 clip alnuxauhwnpouq.mp4",
     "mb": 21.7
    },
@@ -66,7 +66,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-22.mp4",
     "type": "video",
     "title": "22 Aug 2026",
-    "label": "Clip 8 of 14",
+    "label": "Clip 8 of 15",
     "file": "2026-08-22.mp4",
     "mb": 38.2
    },
@@ -74,7 +74,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-23%20clip.mp4",
     "type": "video",
     "title": "23 Aug 2026 — Clip",
-    "label": "Clip 9 of 14",
+    "label": "Clip 9 of 15",
     "file": "2026-08-23 clip.mp4",
     "mb": 51.5
    },
@@ -82,7 +82,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-23%20plane2.mp4",
     "type": "video",
     "title": "23 Aug 2026 — Plane2",
-    "label": "Clip 10 of 14",
+    "label": "Clip 10 of 15",
     "file": "2026-08-23 plane2.mp4",
     "mb": 29.1
    },
@@ -90,7 +90,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-24.mp4",
     "type": "video",
     "title": "24 Aug 2026",
-    "label": "Clip 11 of 14",
+    "label": "Clip 11 of 15",
     "file": "2026-08-24.mp4",
     "mb": 44.7
    },
@@ -98,7 +98,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-25%20beach.mp4",
     "type": "video",
     "title": "25 Aug 2026 — Beach",
-    "label": "Clip 12 of 14",
+    "label": "Clip 12 of 15",
     "file": "2026-08-25 beach.mp4",
     "mb": 40.3
    },
@@ -106,7 +106,7 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-25%20littleblass.mp4",
     "type": "video",
     "title": "25 Aug 2026 — Littleblass",
-    "label": "Clip 13 of 14",
+    "label": "Clip 13 of 15",
     "file": "2026-08-25 littleblass.mp4",
     "mb": 63.5
    },
@@ -114,9 +114,17 @@ window.GALLERY = [
     "path": "media/clips-discord/2026-08-25%20nine1nine.mp4",
     "type": "video",
     "title": "25 Aug 2026 — Nine1nine",
-    "label": "Clip 14 of 14",
+    "label": "Clip 14 of 15",
     "file": "2026-08-25 nine1nine.mp4",
     "mb": 51.7
+   },
+   {
+    "path": "media/clips-discord/2026-08-26%20modded%20car.mp4",
+    "type": "video",
+    "title": "26 Aug 2026 — Modded car",
+    "label": "Clip 15 of 15",
+    "file": "2026-08-26 modded car.mp4",
+    "mb": 35.9
    }
   ]
  },
